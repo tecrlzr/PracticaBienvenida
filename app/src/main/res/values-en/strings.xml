@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PracticeWelcome</string>
+    <string name="app_titulo">Welcome</string>
+    <string name="app_btn_entrar">Enter</string>
+</resources>
