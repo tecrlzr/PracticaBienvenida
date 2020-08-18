@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">TrainierenWillkommen</string>
-    <string name="app_titulo">Bienvenue</string>
+    <string name="app_titulo">Willkommen</string>
     <string name="app_btn_entrar">Betreten</string>
 </resources>
