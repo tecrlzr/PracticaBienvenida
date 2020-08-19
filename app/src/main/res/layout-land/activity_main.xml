@@ -29,8 +29,7 @@
 
     <Button
         android:id="@+id/button"
-        style="@style/Widget.AppCompat.Button.Borderless.Colored"
-        android:layout_width="108dp"
+        android:layout_width="110dp"
         android:layout_height="53dp"
         android:layout_marginStart="166dp"
         android:layout_marginLeft="166dp"
@@ -38,9 +37,9 @@
         android:layout_marginEnd="157dp"
         android:layout_marginRight="157dp"
         android:layout_marginBottom="390dp"
-        android:background="@android:drawable/gallery_thumb"
+        android:background="@drawable/btnwhite"
         android:text="@string/app_btn_entrar"
-        android:textColor="@android:color/primary_text_dark"
+        android:textColor="#FFFFFF"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.484"
